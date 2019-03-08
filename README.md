@@ -1,2 +1,2 @@
-# TesteGIT-QualidSW - MANUT 01
+TesteGIT-QualidSW
 Teste aula Qualidade SW
